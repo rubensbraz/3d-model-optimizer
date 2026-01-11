@@ -2,7 +2,7 @@
 
 [Português](./README_pt.md)
 
-**3D Model Optimizer** is a state-of-the-art, standalone Node.js utility designed to drastically reduce the file size of 3D assets (.glb) for web and mobile production environments.
+**3D Model Optimizer** is a standalone Node.js utility designed to drastically reduce the file size of 3D assets (.glb) for web and mobile production environments.
 
 Leveraging an enterprise-grade pipeline powered by **glTF-Transform**, this tool applies aggressive yet visually lossless compression techniques. It is capable of achieving file size reductions between **90% and 98%**, optimizing assets for high-performance rendering on devices with limited memory.
 
