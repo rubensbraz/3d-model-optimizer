@@ -1,0 +1,28 @@
+{
+  "name": "3d-model-optimizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubensbraz/3d-model-optimizer.git"
+  },
+  "keywords": [],
+  "author": "Rubens Braz",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rubensbraz/3d-model-optimizer/issues"
+  },
+  "homepage": "https://github.com/rubensbraz/3d-model-optimizer#readme",
+  "dependencies": {
+    "@gltf-transform/core": "^4.3.0",
+    "@gltf-transform/extensions": "^4.3.0",
+    "@gltf-transform/functions": "^4.3.0",
+    "draco3d": "^1.5.7",
+    "sharp": "^0.34.5"
+  }
+}
